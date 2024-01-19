@@ -1,0 +1,30 @@
+MovieApp
+
+React Native Test
+
+## Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine.
+
+### Prerequisites
+
+Before you begin, ensure you have the following software installed on your machine:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+- [Expo CLI](https://docs.expo.dev/get-started/installation/) (for Expo-based projects)
+
+### Installing
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/JosephKS10/MovieApp.git
+
+2. Navigate to the project directory: cd MovieApp
+
+3. Install dependencies: npm install
+
+4. Running the App : npm start
+
+5. Scan the QR code above with Expo Go (Android) or the Camera app (iOS) and run the app in your mobile device or in any emulator
